@@ -1,0 +1,4 @@
+I learned how to use git.
+Create a file.
+Add it to staging area.
+Commit.
